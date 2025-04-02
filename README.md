@@ -24,7 +24,7 @@ To run the project, ensure you have Python 3.x installed. Tkinter should be avai
 ### Step 1: Clone the Repository
 
 
-git clone https://github.com/your-username/calendar-app-with-reminders.git
+git clone (https://github.com/KARNA1807/Calender.git)
 cd calendar-app-with-reminders
 
 
